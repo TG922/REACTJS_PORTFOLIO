@@ -2,7 +2,9 @@
   REACTJS_Portfolio Website<br/>
   <a href="https://TG922.github.io/ target="_blank">Live Demo</a>
 </h2>
+                                                   
 <!-- <div align="center">
+                        
   <img alt="Demo" src="./Images/readme-img1.PNG" />
 </div>-->
 
@@ -22,6 +24,7 @@
 
 My personal portfolio <a href="https://TG922.github.io/" target="_blank">Live Demo</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
+                                                                        
 This project was built using these technologies.
 
 - React.js
@@ -31,6 +34,7 @@ This project was built using these technologies.
 - VSCODE
 <!-- VERCEL-->
 
+                                                                        
 ## Features
 
 **📱 Fully Responsive**
